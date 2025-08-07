@@ -1,6 +1,6 @@
 # Lotto Combo Analyzer
 
-🎯 A comprehensive Python & Streamlit app for analyzing and predicting lottery number combinations using clustering, association rule mining, and LSTM deep learning.
+A comprehensive Python & Streamlit app for analyzing and predicting lottery number combinations using clustering, association rule mining, and LSTM deep learning.
 
 ---
 
